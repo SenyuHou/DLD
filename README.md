@@ -46,7 +46,7 @@ python test_on_ILSVRC2012.py --gpu_devices 0 1 2 3 4 5 6 7 --log_name ILSVRC2012
 The dataset should be downloaded according to the instruction here: [Clothing1M](https://github.com/Cysu/noisy_label). Default values for input arguments are given in the code. <br />
 
 ```
-python train_Clothing1M.py --gpu_devices 0 1 2 3 4 5 6 7 --nepoch 200 --warmup_epochs 5  --log_name Clothing1M.log
+python train_on_Clothing1M.py --gpu_devices 0 1 2 3 4 5 6 7 --nepoch 200 --warmup_epochs 5  --log_name Clothing1M.log
 ```
 
 
