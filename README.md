@@ -1,4 +1,4 @@
-# 🧭 Directional Label Diffusion Model for Learning from Noisy Labels  
+# Directional Label Diffusion Model for Learning from Noisy Labels  
 ### 📄 [[CVPR 2025 Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Hou_Directional_Label_Diffusion_Model_for_Learning_from_Noisy_Labels_CVPR_2025_paper.html)
 
 ---
